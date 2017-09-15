@@ -1,0 +1,5 @@
+# Important and Useful Stuff
+
+$ git status
+
+$ git commit -m "commit message"
