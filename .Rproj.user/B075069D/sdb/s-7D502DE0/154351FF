@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "# Title: Software Carpentry Workshop Notes\n# Author: Tyler Arbour\n# Date: September 15, 2017\n\n### Load Packages ###\nlibrary(ggplot2)\n\n\n",
+    "contents" : "# Title: Software Carpentry Workshop Notes\n# Author: Tyler Arbour\n# Date: September 15, 2017\n\n### Load Packages ###\nlibrary(ggplot2)\n\n# Text to commit (blah blah blah)",
     "created" : 1505459766315.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2317870289",
+    "hash" : "2438891592",
     "id" : "154351FF",
-    "lastKnownWriteTime" : 1505470168,
-    "last_content_update" : 1505470168984,
+    "lastKnownWriteTime" : 1505470565,
+    "last_content_update" : 1505470565212,
     "path" : "~/Desktop/SWC/dummy_01.R",
     "project_path" : "dummy_01.R",
     "properties" : {
