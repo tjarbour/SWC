@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "# Author: Tyler Arbour\n# Date: September 15, 2017\n\n\"Hello R World\"",
+    "contents" : "# Title: Software Carpentry Workshop Notes\n# Author: Tyler Arbour\n# Date: September 15, 2017\n\n### Load Packages ###\nlibrary(ggplot2)\n\n\n",
     "created" : 1505459766315.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "183112645",
+    "hash" : "2317870289",
     "id" : "154351FF",
-    "lastKnownWriteTime" : 1505467400,
-    "last_content_update" : 1505467400750,
+    "lastKnownWriteTime" : 1505470168,
+    "last_content_update" : 1505470168984,
     "path" : "~/Desktop/SWC/dummy_01.R",
     "project_path" : "dummy_01.R",
     "properties" : {
