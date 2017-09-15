@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "\"Hello R World\"",
+    "contents" : "# Author: Tyler Arbour\n# Date: September 15, 2017\n\n\"Hello R World\"",
     "created" : 1505459766315.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3313128618",
+    "hash" : "183112645",
     "id" : "154351FF",
-    "lastKnownWriteTime" : 1505459806,
-    "last_content_update" : 1505459806480,
+    "lastKnownWriteTime" : 1505467400,
+    "last_content_update" : 1505467400750,
     "path" : "~/Desktop/SWC/dummy_01.R",
     "project_path" : "dummy_01.R",
     "properties" : {
