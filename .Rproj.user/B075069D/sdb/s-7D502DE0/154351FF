@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "\"Hello R World\"",
+    "created" : 1505459766315.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3313128618",
+    "id" : "154351FF",
+    "lastKnownWriteTime" : 1505459806,
+    "last_content_update" : 1505459806480,
+    "path" : "~/Desktop/SWC/dummy_01.R",
+    "project_path" : "dummy_01.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
